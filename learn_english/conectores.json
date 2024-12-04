@@ -1,0 +1,35 @@
+{
+    "common connectors": {
+        "whereas": "Mientras que",
+        "therefore": "Por lo tanto",
+        "however": "Sin embargo",
+        "in contrast to": "En contraste con",
+        "hence": "Por ende",
+        "as a consequence": "Como consecuencia",
+        "moreover": "Además",
+        "thus": "Así, por lo tanto",
+        "despite": "A pesar de",
+        "furthermore": "Además"
+    },
+    "comparison and contrast": {
+        "in comparison with": "En comparación con",
+        "similar to": "Similar a",
+        "on the other hand": "Por otro lado",
+        "compared to": "Comparado con",
+        "conversely": "A la inversa"
+    },
+    "sequence and explanation": {
+        "for instance": "Por ejemplo",
+        "namely": "A saber",
+        "specifically": "Específicamente",
+        "in particular": "En particular",
+        "in this case": "En este caso"
+    },
+    "other useful connectors": {
+        "throughout": "A lo largo de",
+        "whereby": "Por el cual",
+        "although": "Aunque",
+        "despite the fact that": "A pesar del hecho de que",
+        "notwithstanding": "No obstante"
+    }
+}
